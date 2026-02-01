@@ -217,7 +217,7 @@ function goToCourse() {
 
 <div class="container">
     <header>
-         <h1>  Learn, Practice ,Launch your career</h1> 
+         <h1>  Learn, Practice ,Elevate Careers</h1> 
        
     </header>
    
@@ -251,7 +251,7 @@ function goToCourse() {
 </div>
 
 <footer>
-  <b>  © 2026 Career Launcher</b>
+  <b>  © 2026 Elevate Careers</b>
 </footer>
 
 </body>
