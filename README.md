@@ -56,7 +56,11 @@ Elevate Careers is a learning and career-guidance platform designed to help lear
 
 I’m a passionate web developer focused on building practical, user-centric platforms that help learners grow their technical skills and launch their careers.
 
-🚀 *Always learning. Always build.
-_Add screenshots of your UI here_
+🚀 *Always learning. Always building.
+
+
+
+
+
 
 >>>>>>> 6d59b826e925b4e03ca66ac2c2d1627a7422b900
